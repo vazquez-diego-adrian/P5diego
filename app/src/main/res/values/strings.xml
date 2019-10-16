@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P5diego</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="descripcion">imagen</string>
+    <string name="saludo">saludar</string>
+</resources>
